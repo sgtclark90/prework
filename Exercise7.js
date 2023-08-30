@@ -38,3 +38,4 @@ const splitAmount = billTotal / 3
 
 console.log("The total due is", billTotal.toFixed(2));
 console.log("Split 3 ways is", splitAmount.toFixed(2), "each");
+

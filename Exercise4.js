@@ -42,3 +42,12 @@ console.log(45 % 7);
 
 console.log("The product of 5 and 7 added to the quotient of 12 and 3 is: ");
 console.log((5 + 7) + (12 / 3));
+
+//log all numbers from 1 to 100 that are even.
+
+for (let i = 1; i <= 100; i++) {
+    if (i % 2 == 0) {
+        // i is even
+    console.log(i)
+    }
+}
